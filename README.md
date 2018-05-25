@@ -1,0 +1,2 @@
+# Penalized-RegressionPt3
+Data set: bostonhousing.csv You have to predict the median house value (medv) using the following variables: crim, zn, indus, nox, rm, age, dis, rad, tax, ptratio and lstat. Identify the model with the highest prediction accuracy using these methods: - best subset selection regression - forward and backward stepwise regression - ridge regression - lasso regression - PLS regression
